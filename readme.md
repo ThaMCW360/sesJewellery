@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Ses Jewellery, zapraszamy wkrótce</title>
