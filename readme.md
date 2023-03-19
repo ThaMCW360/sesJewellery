@@ -27,7 +27,7 @@ grid-row-gap: 0px;
         height: 20rem;
     }
     h2 {
-        font-size: xxx-large;
+        font-size: 3rem;
     }
 
     h3 {
