@@ -47,7 +47,7 @@ grid-row-gap: 0px;
         <div class="col-lg-12" style="margin-bottom: 1rem;"><h3 style="font-family: 'Source Sans Pro', sans-serif;">Zapraszam od 3 kwietnia 2023 r.</h3></div>
     </div>
     <div style="" class="col-lg-6">
-        <img class="img" src="img.png" style="width: 100%">
+        <img class="img" src="img.webp" style="width: 100%">
     </div>
 </div>
 </body>
